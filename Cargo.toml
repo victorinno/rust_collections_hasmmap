@@ -1,0 +1,13 @@
+[package]
+name = "rust_collections_hasmmap"
+version = "0.1.0"
+authors = ["victorinno <rotc21@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+[[example]]
+name = "student_report"
+path = "src/students/students_report.rs"
