@@ -11,3 +11,15 @@ edition = "2018"
 [[example]]
 name = "student_report"
 path = "src/students/students_report.rs"
+
+[[example]]
+name = "students_try_change"
+path = "src/students/students_try_change.rs"
+
+[[example]]
+name = "students_push"
+path = "src/students/students_push.rs"
+
+[[example]]
+name = "students_increse_age"
+path = "src/students/students_increse_age.rs"
